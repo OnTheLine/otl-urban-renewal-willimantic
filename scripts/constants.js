@@ -1,8 +1,10 @@
 var constants = {
+  // Tabs in Google Sheet
+	optionsSheetName: 'Options',
+	chaptersSheetName: 'Chapters',
 	// Storymapap Info
   _mapTitle: 'Storymap Title',
   _mapSubtitle: 'Storymap Subtitle',
-  _mapLogo: 'Storymap Logo',
   // Credits
 	_authorName: 'Author Name',
 	_authorURL: 'Author Email or Website',
@@ -18,5 +20,4 @@ var constants = {
   _narrativeText: 'Narrative Text Color',
   _narrativeActive: 'Active Chapter Background Color',
   _narrativeLink: 'Narrative Link Color',
-  _googleAnalytics: 'Google Analytics Tracking ID'
 };
