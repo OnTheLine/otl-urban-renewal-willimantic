@@ -10,6 +10,7 @@ var constants = {
 	_githubRepo: 'Author GitHub Repo Link',
 	// Map Settings
 	_tileProvider: 'Basemap Tiles',
+  _tileProviderApiKey: 'Basemap Tiles API Key',
 	_zoomControls: 'Zoom Controls',
   _narrativeWidth: 'Narrative Width',
   _imgContainerHeight: 'Media Container Height',
@@ -18,5 +19,6 @@ var constants = {
   _narrativeText: 'Narrative Text Color',
   _narrativeActive: 'Active Chapter Background Color',
   _narrativeLink: 'Narrative Link Color',
-  _googleAnalytics: 'Google Analytics Tracking ID'
+  _googleAnalytics: 'Google Analytics Tracking ID',
+  _enableLightbox: 'Enable Lightbox for Images'
 };
